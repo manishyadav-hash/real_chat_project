@@ -24,3 +24,7 @@ temp/
 
 # Ignore markdown files
 *.md
+
+# Ignore scripts directory
+scripts/
+!README.md
